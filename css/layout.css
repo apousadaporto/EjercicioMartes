@@ -3,6 +3,7 @@
 header {
     height: 80px;
     background-color: lightgreen;
+    display: flex;
 }
 
 .circulo {
